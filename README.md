@@ -7,3 +7,4 @@ This file contain PyTorch code to build a convolutional neural network that will
 ## Instructions 
 
 the first step is to import the data
+this code soen't belong
